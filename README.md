@@ -1,6 +1,6 @@
 # 🛡️ Hepius - AI-Powered Emergency Detection
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-brightgreen)](https://devanand885.github.io/Hepius/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-brightgreen)](https://devanand885.github.io/Hepius-Emergency_Detection/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-v4.x-orange.svg)](https://www.tensorflow.org/js)
 
@@ -82,8 +82,8 @@ Hepius/
 ### 1) Clone the Repository
 
 ```bash
-git clone https://github.com/devanand885/Hepius.git
-cd Hepius
+git clone https://github.com/devanand885/Hepius-Emergency_Detection.git
+cd Hepius-Emergency_Detection
 ```
 
 ### 2) Run Locally
