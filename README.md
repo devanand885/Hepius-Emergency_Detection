@@ -111,12 +111,14 @@ Hepius operates entirely on client hardware using WebGL / WebGPU browser acceler
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-## Author & Contributor
+## Author & Maintainer
 
-**Devanand** (Lead Developer & Sole Contributor)
+- **Devanand** — Lead Developer & Maintainer
+  - **GitHub**: [github.com/devanand885](https://github.com/devanand885)
+  - **Email**: [g.devanand005@gmail.com](mailto:g.devanand005@gmail.com)
 
-- **GitHub**: [github.com/devanand885](https://github.com/devanand885)
-- **Email**: [g.devanand005@gmail.com](mailto:g.devanand005@gmail.com)
+## Contributors
+
+- **Devanand** ([@devanand885](https://github.com/devanand885)) — Sole Project Contributor
 
 If this project helped you, consider giving it a ⭐️ star on GitHub!
-
